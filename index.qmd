@@ -1,0 +1,108 @@
+---
+title: "USCOTS 2023 SCORE Breakout Session"
+image: SCORE_Logo.png
+---
+
+![](SCORE_logo_banner.png){fig-alt="SCORE network logo" width="50%"}
+
+## 09:30 Welcome
+
+-   Introductions
+-   Session webpage <https://iramler.github.io/uscots2023_score/>
+-   Useful Tech for Session
+    -   Internet access
+    -   Statistical Software (e.g., R, Minitab, etc.)
+
+## 09:35 [Score (with Data) Network Overview](https://drive.google.com/file/d/1Yy-m15ztVEALj5nxs_DoU6xSDHdYxGzk/view?usp=drive_link){target="_blank"}
+
+-   **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.
+
+-   **Description:** This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.
+
+-   **Funding Acknowledgement:** NSF Award #2142705. *Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.*
+
+-   **Team:** [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
+
+-   [SCORE homepage](https://scorenetwork.org/){target="_blank"}
+
+    -   Main page to get access to modules, submit your own, and contact the team.
+    -   [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
+        -   Curates interesting datasets across a variety of sports for use in statistics and data science education. Includes:
+
+-   Social Media
+
+    -   [Twitter](https://twitter.com/scorenetworkorg){target="_blank"}
+    -   [LinkedIn](https://www.linkedin.com/company/scorenetworkorg){target="_blank"}
+
+## 09:45 Example SCORE modules
+
+-   Module Overview
+
+    -   Required Elements
+        -   Motivating sports question(s)
+        -   Data (with documentation)
+        -   Statistics/Data Science learning goals
+        -   Methods/topics needed to address the question(s)
+        -   Activities/Exercises/Assessments
+        -   Wrap-up
+    -   Optional Elements
+        -   Motivating video
+        -   ISLE activity
+        -   Sample (editable) activity handouts
+        -   Background material on stat/data science topics
+        -   Sample assessment items
+        -   Instructor notes and/or solutions
+
+-   Details available in the [Module Author Handbook](https://drive.google.com/file/d/1bCYSqy1sr-ppDtOJno9XdWho38QfcFl8/view?usp=share_link){target="_blank"}
+
+-   **Ironman module**
+
+    -   Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
+    -   Break into small groups and work through handout
+    -   A few things to consider while working on it
+        -   How would you use this with your students?
+        -   What other info would you like as part of the module?
+        -   What would you modify to fit your teaching style?
+    -   Regroup to discuss
+
+-   Other modules: Break into groups based on interest
+
+    -   Interactive ISLE Based
+        -   [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/){target="_blank"}: Testing for Normality
+        -   [Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurrence (using Exponential distribution)
+        -   [Unbreakable Records in Baseball](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits){target="_blank"}: Bernoulli trial, Binomial Experiments, and Chi-Square tests
+    -   In-progress modules
+        -   [Lacrosse: PLL vs NLL](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}: Difference in means
+        -   [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}: Outlier detection
+        -   [PGA](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}: Correlations
+            -   No/low tech version
+            -   Statistical Software required (e.g., Minitab, SPSS, R, etc.)
+        -   [NCAA Div I Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables){target="_blank"}: Joining/Merging Data Tables
+            -   dplyr based (tech - "Using R" or low tech - "sketch by hand")
+            -   SQL (sqlite or duckdb) also available
+
+## 10:30 Joining the Network as a contributor
+
+-   Content Creator and/or Reviewer
+    -   [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
+    -   Review Process ![](module_idea_flowchart.jpg)
+
+::: {.callout-note appearance="simple"}
+-   **Coaches** are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.
+:::
+
+-   Involving students
+    -   St. Lawrence University approach
+        -   0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)
+        -   Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" (but usable) modules until they are ready to be submitted.
+        -   Summer research students to polish existing and create new content.
+
+## 10:40 Wrap-up
+
+-   Want to see us again?
+    -   [Birds of a Feather](https://www.causeweb.org/cause/uscots/uscots23/sat-14-sports-data){target="_blank"}: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)
+    -   [Mathfest](https://web.cvent.com/event/6ee04f0b-0da3-45ee-b9d6-61cd14e1e5d0/summary){target="_blank"}
+    -   [JSM](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2313){target="_blank"}
+-   [Signup sheet to be on email list for network](https://docs.google.com/forms/d/e/1FAIpQLSfreQ3G8Pw2MP5brhFHGg8gzbVlaqQepFxR7ToARrsRBGSB2w/viewform?usp=sf_link){target="_blank"}
+
+![](signup_link.png)
