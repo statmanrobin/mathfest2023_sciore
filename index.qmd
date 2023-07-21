@@ -5,7 +5,7 @@ image: SCORE_Logo.png
 
 ![](SCORE_logo_banner.png){fig-alt="SCORE network logo" width="50%"}
 
-## 09:30 Welcome
+## 08:00 Welcome
 
 -   Introductions
 -   Session webpage <https://iramler.github.io/uscots2023_score/>
@@ -13,7 +13,7 @@ image: SCORE_Logo.png
     -   Internet access
     -   Statistical Software (e.g., R, Minitab, etc.)
 
-## 09:35 [Score (with Data) Network Overview](https://drive.google.com/file/d/1Yy-m15ztVEALj5nxs_DoU6xSDHdYxGzk/view?usp=drive_link){target="_blank"}
+## 08:05 [Score (with Data) Network Overview](https://drive.google.com/file/d/1Yy-m15ztVEALj5nxs_DoU6xSDHdYxGzk/view?usp=drive_link){target="_blank"}
 
 -   **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.
 
@@ -34,7 +34,7 @@ image: SCORE_Logo.png
     -   [Twitter](https://twitter.com/scorenetworkorg){target="_blank"}
     -   [LinkedIn](https://www.linkedin.com/company/scorenetworkorg){target="_blank"}
 
-## 09:45 Example SCORE modules
+## 08:15 Example SCORE modules
 
 -   Module Overview
 
@@ -81,7 +81,7 @@ image: SCORE_Logo.png
             -   dplyr based (tech - "Using R" or low tech - "sketch by hand")
             -   SQL (sqlite or duckdb) also available
 
-## 10:30 Joining the Network as a contributor
+## 09:00 Joining the Network as a contributor
 
 -   Content Creator and/or Reviewer
     -   [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
@@ -97,7 +97,7 @@ image: SCORE_Logo.png
         -   Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" (but usable) modules until they are ready to be submitted.
         -   Summer research students to polish existing and create new content.
 
-## 10:40 Wrap-up
+## 09:10 Wrap-up
 
 -   Want to see us again?
     -   [Birds of a Feather](https://www.causeweb.org/cause/uscots/uscots23/sat-14-sports-data){target="_blank"}: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)

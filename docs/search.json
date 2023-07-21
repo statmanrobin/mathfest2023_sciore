@@ -3,63 +3,63 @@
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "09:30 Welcome",
-    "text": "09:30 Welcome\n\nIntroductions\nSession webpage https://iramler.github.io/uscots2023_score/\nUseful Tech for Session\n\nInternet access\nStatistical Software (e.g., R, Minitab, etc.)"
+    "section": "08:00 Welcome",
+    "text": "08:00 Welcome\n\nIntroductions\nSession webpage https://iramler.github.io/uscots2023_score/\nUseful Tech for Session\n\nInternet access\nStatistical Software (e.g., R, Minitab, etc.)"
   },
   {
     "objectID": "index.html#score-with-data-network-overview",
     "href": "index.html#score-with-data-network-overview",
     "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "09:35 Score (with Data) Network Overview",
-    "text": "09:35 Score (with Data) Network Overview\n\nGoal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.\nDescription: This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.\nFunding Acknowledgement: NSF Award #2142705. Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.\nTeam: The 2023 Roster\nSCORE homepage\n\nMain page to get access to modules, submit your own, and contact the team.\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\n\nSocial Media\n\nTwitter\nLinkedIn"
+    "section": "08:05 Score (with Data) Network Overview",
+    "text": "08:05 Score (with Data) Network Overview\n\nGoal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.\nDescription: This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.\nFunding Acknowledgement: NSF Award #2142705. Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.\nTeam: The 2023 Roster\nSCORE homepage\n\nMain page to get access to modules, submit your own, and contact the team.\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\n\nSocial Media\n\nTwitter\nLinkedIn"
   },
   {
     "objectID": "index.html#example-score-modules",
     "href": "index.html#example-score-modules",
     "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "09:45 Example SCORE modules",
-    "text": "09:45 Example SCORE modules\n\nModule Overview\n\nRequired Elements\n\nMotivating sports question(s)\nData (with documentation)\nStatistics/Data Science learning goals\nMethods/topics needed to address the question(s)\nActivities/Exercises/Assessments\nWrap-up\n\nOptional Elements\n\nMotivating video\nISLE activity\nSample (editable) activity handouts\nBackground material on stat/data science topics\nSample assessment items\nInstructor notes and/or solutions\n\n\nDetails available in the Module Author Handbook\nIronman module\n\nModule is available on ISLE\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat other info would you like as part of the module?\nWhat would you modify to fit your teaching style?\n\nRegroup to discuss\n\nOther modules: Break into groups based on interest\n\nInteractive ISLE Based\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurrence (using Exponential distribution)\nUnbreakable Records in Baseball: Bernoulli trial, Binomial Experiments, and Chi-Square tests\n\nIn-progress modules\n\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: Correlations\n\nNo/low tech version\nStatistical Software required (e.g., Minitab, SPSS, R, etc.)\n\nNCAA Div I Softball: Joining/Merging Data Tables\n\ndplyr based (tech - “Using R” or low tech - “sketch by hand”)\nSQL (sqlite or duckdb) also available"
+    "section": "08:15 Example SCORE modules",
+    "text": "08:15 Example SCORE modules\n\nModule Overview\n\nRequired Elements\n\nMotivating sports question(s)\nData (with documentation)\nStatistics/Data Science learning goals\nMethods/topics needed to address the question(s)\nActivities/Exercises/Assessments\nWrap-up\n\nOptional Elements\n\nMotivating video\nISLE activity\nSample (editable) activity handouts\nBackground material on stat/data science topics\nSample assessment items\nInstructor notes and/or solutions\n\n\nDetails available in the Module Author Handbook\nIronman module\n\nModule is available on ISLE\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat other info would you like as part of the module?\nWhat would you modify to fit your teaching style?\n\nRegroup to discuss\n\nOther modules: Break into groups based on interest\n\nInteractive ISLE Based\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurrence (using Exponential distribution)\nUnbreakable Records in Baseball: Bernoulli trial, Binomial Experiments, and Chi-Square tests\n\nIn-progress modules\n\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: Correlations\n\nNo/low tech version\nStatistical Software required (e.g., Minitab, SPSS, R, etc.)\n\nNCAA Div I Softball: Joining/Merging Data Tables\n\ndplyr based (tech - “Using R” or low tech - “sketch by hand”)\nSQL (sqlite or duckdb) also available"
   },
   {
     "objectID": "index.html#joining-the-network-as-a-contributor",
     "href": "index.html#joining-the-network-as-a-contributor",
     "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "10:30 Joining the Network as a contributor",
-    "text": "10:30 Joining the Network as a contributor\n\nContent Creator and/or Reviewer\n\nSubmitting a module or idea for a module\nReview Process \n\n\n\n\n\n\n\n\n\nCoaches are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.\n\n\n\n\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)\nUse GitHub to store “in progress” (but usable) modules until they are ready to be submitted.\nSummer research students to polish existing and create new content."
+    "section": "09:00 Joining the Network as a contributor",
+    "text": "09:00 Joining the Network as a contributor\n\nContent Creator and/or Reviewer\n\nSubmitting a module or idea for a module\nReview Process \n\n\n\n\n\n\n\n\n\nCoaches are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.\n\n\n\n\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)\nUse GitHub to store “in progress” (but usable) modules until they are ready to be submitted.\nSummer research students to polish existing and create new content."
   },
   {
     "objectID": "index.html#wrap-up",
     "href": "index.html#wrap-up",
     "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "10:40 Wrap-up",
-    "text": "10:40 Wrap-up\n\nWant to see us again?\n\nBirds of a Feather: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)\nMathfest\nJSM\n\nSignup sheet to be on email list for network"
+    "section": "09:10 Wrap-up",
+    "text": "09:10 Wrap-up\n\nWant to see us again?\n\nBirds of a Feather: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)\nMathfest\nJSM\n\nSignup sheet to be on email list for network"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site contains the outline and links for the Building a SCORE Module to Teach with Sports Data breakout session at 2023 USCOTS."
+    "text": "This site contains the outline and links for the Building a SCORE Module to Teach with Sports Data workshop session at 2023 Mathfest."
   },
   {
     "objectID": "about.html#session-details",
     "href": "about.html#session-details",
     "title": "About",
     "section": "Session Details",
-    "text": "Session Details\nFriday 9:30 – 10:45 AM"
+    "text": "Session Details\nFriday 8;00 – 9:20 AM"
   },
   {
     "objectID": "about.html#presenters",
     "href": "about.html#presenters",
     "title": "About",
     "section": "Presenters",
-    "text": "Presenters\nIvan Ramler, Michael Schuckers, and Robin Lock St. Lawrence University"
+    "text": "Presenters\nNick Clark, Andrew Lee - United States Military Academy West Point\nRobin Lock - St. Lawrence University"
   },
   {
     "objectID": "about.html#session-description",
     "href": "about.html#session-description",
     "title": "About",
     "section": "Session Description",
-    "text": "Session Description\nSCORE with Data is an NSF-funded project that seeks to build a national network to develop and share high quality materials for using Sports Content for Outreach, Research, and Education in statistics and data science. The SCORE network includes both statistics/data science educators, data professionals from sports teams and sports personalities to guide and review the module development process. A key component of this endeavor is to create a repository of teaching modules that connect interesting sports-related questions with appropriate datasets for classroom use. This includes finding appropriate data and guiding students to produce analyses and results that can be communicated to help participants in the sport answer questions of interest. The materials created for each module include students being asked to communicate the analyses that they are undertaking.\nThis session will introduce participants to the network, engage them with the repository of education modules, review the process for module creation, and discuss how to further engage with and become part of the network. Time permitting, attendees, in small groups, will brainstorm about possible data and questions for further development into a module. As such, it would be helpful for participants to have laptops with internet access for finding data, doing initial analyses, and accessing existing online SCORE modules. Further, interest/experience in one or more sports (as a fan or participant) would be helpful but is not necessary."
+    "text": "Session Description\nSCORE with Data is an NSF-funded project that seeks to build a national network to develop and share high quality materials for using Sports Content for Outreach, Research, and Education in statistics and data science. The SCORE network includes both statistics/data science educators, data professionals from sports teams and sports personalities to guide and review the module development process. A key component of this endeavor is to create a repository of teaching modules that connect interesting sports-related questions with appropriate datasets for classroom use. This includes finding appropriate data and guiding students to produce analyses and results that can be communicated to help participants in the sport answer questions of interest. The materials created for each module include students being asked to communicate the analyses that they are undertaking.\nThis session will introduce participants to the network, engage them with the repository of education modules, review the process for module creation, and discuss how to further engage with and become part of the network."
   }
 ]
