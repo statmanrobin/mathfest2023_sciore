@@ -1,5 +1,5 @@
 ---
-title: "USCOTS 2023 SCORE Breakout Session"
+title: "MathFest 2023 SCORE Workshop"
 image: SCORE_Logo.png
 ---
 
@@ -7,11 +7,11 @@ image: SCORE_Logo.png
 
 ## 08:00 Welcome
 
+-   Session webpage <https://stamanrobin.github.io/mathfest2023_score/>
+-   Presenters
+    -   Nick Clark, Andrew Lee (US Military Academy)
+    -   Robin Lock (St. Lawrence University)
 -   Introductions
--   Session webpage <https://iramler.github.io/uscots2023_score/>
--   Useful Tech for Session
-    -   Internet access
-    -   Statistical Software (e.g., R, Minitab, etc.)
 
 ## 08:05 [Score (with Data) Network Overview](https://drive.google.com/file/d/1Yy-m15ztVEALj5nxs_DoU6xSDHdYxGzk/view?usp=drive_link){target="_blank"}
 
@@ -27,7 +27,7 @@ image: SCORE_Logo.png
 
     -   Main page to get access to modules, submit your own, and contact the team.
     -   [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
-        -   Curates interesting datasets across a variety of sports for use in statistics and data science education. Includes:
+        -   Curates interesting datasets across a variety of sports for use in statistics and data science education.
 
 -   Social Media
 
@@ -84,8 +84,14 @@ image: SCORE_Logo.png
 ## 09:00 Joining the Network as a contributor
 
 -   Content Creator and/or Reviewer
+
     -   [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
-    -   Review Process ![](module_idea_flowchart.jpg)
+
+    ![](IdeaModuleReview.png)
+
+    -   Review Process
+
+    ![](FullModuleReview.png)
 
 ::: {.callout-note appearance="simple"}
 -   **Coaches** are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.

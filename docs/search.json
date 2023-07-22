@@ -2,35 +2,35 @@
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "USCOTS 2023 SCORE Breakout Session",
+    "title": "MathFest 2023 SCORE Workshop",
     "section": "08:00 Welcome",
-    "text": "08:00 Welcome\n\nIntroductions\nSession webpage https://iramler.github.io/uscots2023_score/\nUseful Tech for Session\n\nInternet access\nStatistical Software (e.g., R, Minitab, etc.)"
+    "text": "08:00 Welcome\n\nSession webpage https://stamanrobin.github.io/mathfest2023_score/\nPresenters\n\nNick Clark, Andrew Lee (US Military Academy)\nRobin Lock (St. Lawrence University)\n\nIntroductions"
   },
   {
     "objectID": "index.html#score-with-data-network-overview",
     "href": "index.html#score-with-data-network-overview",
-    "title": "USCOTS 2023 SCORE Breakout Session",
+    "title": "MathFest 2023 SCORE Workshop",
     "section": "08:05 Score (with Data) Network Overview",
-    "text": "08:05 Score (with Data) Network Overview\n\nGoal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.\nDescription: This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.\nFunding Acknowledgement: NSF Award #2142705. Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.\nTeam: The 2023 Roster\nSCORE homepage\n\nMain page to get access to modules, submit your own, and contact the team.\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\n\nSocial Media\n\nTwitter\nLinkedIn"
+    "text": "08:05 Score (with Data) Network Overview\n\nGoal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.\nDescription: This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.\nFunding Acknowledgement: NSF Award #2142705. Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.\nTeam: The 2023 Roster\nSCORE homepage\n\nMain page to get access to modules, submit your own, and contact the team.\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education.\n\n\nSocial Media\n\nTwitter\nLinkedIn"
   },
   {
     "objectID": "index.html#example-score-modules",
     "href": "index.html#example-score-modules",
-    "title": "USCOTS 2023 SCORE Breakout Session",
+    "title": "MathFest 2023 SCORE Workshop",
     "section": "08:15 Example SCORE modules",
     "text": "08:15 Example SCORE modules\n\nModule Overview\n\nRequired Elements\n\nMotivating sports question(s)\nData (with documentation)\nStatistics/Data Science learning goals\nMethods/topics needed to address the question(s)\nActivities/Exercises/Assessments\nWrap-up\n\nOptional Elements\n\nMotivating video\nISLE activity\nSample (editable) activity handouts\nBackground material on stat/data science topics\nSample assessment items\nInstructor notes and/or solutions\n\n\nDetails available in the Module Author Handbook\nIronman module\n\nModule is available on ISLE\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat other info would you like as part of the module?\nWhat would you modify to fit your teaching style?\n\nRegroup to discuss\n\nOther modules: Break into groups based on interest\n\nInteractive ISLE Based\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurrence (using Exponential distribution)\nUnbreakable Records in Baseball: Bernoulli trial, Binomial Experiments, and Chi-Square tests\n\nIn-progress modules\n\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: Correlations\n\nNo/low tech version\nStatistical Software required (e.g., Minitab, SPSS, R, etc.)\n\nNCAA Div I Softball: Joining/Merging Data Tables\n\ndplyr based (tech - “Using R” or low tech - “sketch by hand”)\nSQL (sqlite or duckdb) also available"
   },
   {
     "objectID": "index.html#joining-the-network-as-a-contributor",
     "href": "index.html#joining-the-network-as-a-contributor",
-    "title": "USCOTS 2023 SCORE Breakout Session",
+    "title": "MathFest 2023 SCORE Workshop",
     "section": "09:00 Joining the Network as a contributor",
-    "text": "09:00 Joining the Network as a contributor\n\nContent Creator and/or Reviewer\n\nSubmitting a module or idea for a module\nReview Process \n\n\n\n\n\n\n\n\n\nCoaches are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.\n\n\n\n\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)\nUse GitHub to store “in progress” (but usable) modules until they are ready to be submitted.\nSummer research students to polish existing and create new content."
+    "text": "09:00 Joining the Network as a contributor\n\nContent Creator and/or Reviewer\n\nSubmitting a module or idea for a module\n\n\n\nReview Process\n\n\n\n\n\n\n\n\n\n\nCoaches are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.\n\n\n\n\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)\nUse GitHub to store “in progress” (but usable) modules until they are ready to be submitted.\nSummer research students to polish existing and create new content."
   },
   {
     "objectID": "index.html#wrap-up",
     "href": "index.html#wrap-up",
-    "title": "USCOTS 2023 SCORE Breakout Session",
+    "title": "MathFest 2023 SCORE Workshop",
     "section": "09:10 Wrap-up",
     "text": "09:10 Wrap-up\n\nWant to see us again?\n\nBirds of a Feather: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)\nMathfest\nJSM\n\nSignup sheet to be on email list for network"
   },
@@ -39,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This site contains the outline and links for the Building a SCORE Module to Teach with Sports Data workshop session at 2023 Mathfest."
+    "text": "This site contains the outline and links for the Building a SCORE Module to Teach with Sports Data workshop session at 2023 MathFest."
   },
   {
     "objectID": "about.html#session-details",
