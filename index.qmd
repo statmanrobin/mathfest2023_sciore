@@ -27,14 +27,14 @@ image: SCORE_Logo.png
 
     -   Main page to get access to modules, submit your own, and contact the team.
     -   [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
-        -   Curates interesting datasets across a variety of sports for use in statistics and data science education.
+        -   Curates interesting datasets across a variety of sports for use in statistics and data science education. Searchble by sport or statistical topic.
 
 -   Social Media
 
     -   [Twitter](https://twitter.com/scorenetworkorg){target="_blank"}
     -   [LinkedIn](https://www.linkedin.com/company/scorenetworkorg){target="_blank"}
 
-## 08:15 Example SCORE modules
+## 08:15 Example SCORE module
 
 -   Module Overview
 
@@ -58,57 +58,91 @@ image: SCORE_Logo.png
 -   **Ironman module**
 
     -   Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
-    -   Break into small groups and work through handout
+
     -   A few things to consider while working on it
+
         -   How would you use this with your students?
         -   What other info would you like as part of the module?
         -   What would you modify to fit your teaching style?
-    -   Regroup to discuss
 
--   Other modules: Break into groups based on interest
+## 08:25 More sample modules
 
-    -   Interactive ISLE Based
-        -   [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/){target="_blank"}: Testing for Normality
-        -   [Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurrence (using Exponential distribution)
-        -   [Unbreakable Records in Baseball](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits){target="_blank"}: Bernoulli trial, Binomial Experiments, and Chi-Square tests
-    -   In-progress modules
-        -   [Lacrosse: PLL vs NLL](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}: Difference in means
-        -   [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}: Outlier detection
-        -   [PGA](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}: Correlations
-            -   No/low tech version
-            -   Statistical Software required (e.g., Minitab, SPSS, R, etc.)
-        -   [NCAA Div I Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables){target="_blank"}: Joining/Merging Data Tables
-            -   dplyr based (tech - "Using R" or low tech - "sketch by hand")
-            -   SQL (sqlite or duckdb) also available
+*Break into groups based on interest*
 
-## 09:00 Joining the Network as a contributor
+-   Interactive ISLE Based
+    -   [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/){target="_blank"}: Testing for Normality
+    -   [Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurrence (using Exponential distribution)
+    -   [Unbreakable Records in Baseball](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits){target="_blank"}: Bernoulli trial, Binomial Experiments, and Chi-Square tests
+    -   [Predicting NHL Shooting Percentages](https://isle.stat.cmu.edu/SCORE/NHLShots/){target="blank"}:Exploratory Data Analysis and Simple Linear Regression
+-   In-progress modules
+    -   [Lacrosse: PLL vs NLL](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}: Difference in means
+    -   [League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}: Outlier detection
+    -   [PGA](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}: Correlations
+        -   No/low tech version
+        -   Statistical Software required (e.g., Minitab, SPSS, R, etc.)
+    -   [NCAA Div I Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables){target="_blank"}: Joining/Merging Data Tables
+        -   dplyr based (tech - "Using R" or low tech - "sketch by hand")
+        -   SQL (sqlite or duckdb) also available
+-   Feedback from groups?
+    -   Features you like
+    -   Suggestions for improvements
+    -   Ideas for other module topics?
 
--   Content Creator and/or Reviewer
+## 09:00 Your Possible Roles in the SCORE Network
 
-    -   [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
+-   [Use data from the data repository](https://data.scorenetwork.org/){target="_blank"}
+
+    -   Class activity
+
+    -   Student projects
+
+    -   Sports Analytics Club
+
+-   [Submit a dataset to the data repository](https://data.scorenetwork.org/submit-data.html)
+
+    -   Good outlet for a student project
+
+-   [Submit an idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
+
+    -   Have a coach assigned to help develop the module
 
     ![](IdeaModuleReview.png)
-
-    -   Review Process
-
-    ![](FullModuleReview.png)
 
 ::: {.callout-note appearance="simple"}
 -   **Coaches** are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.
 :::
 
--   Involving students
-    -   St. Lawrence University approach
+-   [Submit a full module for review and publication](https://scorenetwork.org/submissions.html){target="_blank"}
+
+    ![](FullModuleReview.png)
+
+-   Do a pedagogical review for a proposed module
+
+-   Organize student reviews for proposed modules
+
+    -   Good activity for a Sports Analytics Club
+
+-   Other ways to involve students
+
+    -   St. Lawrence University approach (SCORE Seminiar)
         -   0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)
         -   Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" (but usable) modules until they are ready to be submitted.
         -   Summer research students to polish existing and create new content.
 
-## 09:10 Wrap-up
+## 09:15 Wrap-up
 
--   Want to see us again?
-    -   [Birds of a Feather](https://www.causeweb.org/cause/uscots/uscots23/sat-14-sports-data){target="_blank"}: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)
-    -   [Mathfest](https://web.cvent.com/event/6ee04f0b-0da3-45ee-b9d6-61cd14e1e5d0/summary){target="_blank"}
-    -   [JSM](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2313){target="_blank"}
--   [Signup sheet to be on email list for network](https://docs.google.com/forms/d/e/1FAIpQLSfreQ3G8Pw2MP5brhFHGg8gzbVlaqQepFxR7ToARrsRBGSB2w/viewform?usp=sf_link){target="_blank"}
+Want to see more about SCORE?
+
+-   [2023 JSM - Toronto](https://ww2.amstat.org/meetings/jsm/2023/){target="_blank"}
+
+    -   [SCORE with Data: Sports Content for Outreach, Research, And Education](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=5805){target="_blank"} Invited Poster (August 6)
+
+    -   [SCORE Seminar: Undergraduates Producing Sports-related Educational Modules](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=4708){target="_blank"} Contributred paper (August 7)
+
+    -   [Sports, statistics, and science - such synergy! Using sports to support student success in statistics](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2313){target="_blank"} Contributed paper (August 9)
+
+-   [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2023/){target="_blank"} November 10-11, 2023
+
+### [Signup sheet to be on email list for network](https://docs.google.com/forms/d/e/1FAIpQLSfreQ3G8Pw2MP5brhFHGg8gzbVlaqQepFxR7ToARrsRBGSB2w/viewform?usp=sf_link){target="_blank"}
 
 ![](signup_link.png)
