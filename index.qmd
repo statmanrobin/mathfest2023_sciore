@@ -7,7 +7,7 @@ image: SCORE_Logo.png
 
 ## 08:00 Welcome
 
--   Session webpage <https://stamanrobin.github.io/mathfest2023_score/>
+-   Session webpage [https://statmanrobin.github.io/mathfest2023_score/](https://statmanrobin.github.io/mathfest2023_score/){.uri}
 -   Presenters
     -   Nick Clark, Andrew Lee (US Military Academy)
     -   Robin Lock (St. Lawrence University)
