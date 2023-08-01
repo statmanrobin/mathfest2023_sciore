@@ -13,7 +13,7 @@ image: SCORE_Logo.png
     -   Robin Lock (St. Lawrence University)
 -   Introductions
 
-## 08:05 [Score (with Data) Network Overview](https://drive.google.com/file/d/1Yy-m15ztVEALj5nxs_DoU6xSDHdYxGzk/view?usp=drive_link){target="_blank"}
+## 08:05 [Score (with Data) Network Overview](https://docs.google.com/presentation/d/1_RbVviK7sHRPXtDTL9m2-aCU4inwdsZQwFmtjX_I_GY/edit?usp=drive_link){target="_blank"}
 
 -   **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.
 
